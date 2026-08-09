@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebBoard</string>
+    <string name="ime_name">WebBoard Keyboard</string>
+    <string name="ime_settings">WebBoard settings</string>
+</resources>
